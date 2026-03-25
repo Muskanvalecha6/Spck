@@ -105,7 +105,7 @@
    <header id="about" class="relative max-w-5xl mx-auto px-6 pt-16 pb-12 md:pt-24 md:pb-20">
     <div class="flex flex-col md:flex-row items-center gap-10"><!-- Avatar -->
      <div class="anim-scale delay-1 flex-shrink-0">
-      <div class="w-44 h-44 md:w-52 md:h-52 rounded-full flex items-center justify-center shadow-lg" style="background: linear-gradient(135deg, #2C5545, #3D7A65);"><span class="font-heading text-6xl md:text-7xl" style="color:#FAF7F2;" id="avatar-initial">M</span>
+      <div class="w-44 h-44 md:w-52 md:h-52 Rounded-full flex items-center justify-center shadow-lg" style="background: linear-gradient(135deg, #2C5545, #3D7A65);"><span class="font-heading text-6xl md:text-7xl" style="color:#FAF7F2;" id="avatar-initial">MV</span>
       </div>
      </div><!-- Info -->
      <div class="text-center md:text-left">
